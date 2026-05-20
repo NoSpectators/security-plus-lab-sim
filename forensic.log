@@ -1,0 +1,4 @@
+2026-05-20T16:09:17.280991 | {'timestamp': '2026-05-20T16:09:17.280802', 'event_type': 'PORT_SCAN', 'source': 'attacker', 'data': {'target': '192.168.1.10'}}
+2026-05-20T16:09:17.281116 | {'timestamp': '2026-05-20T16:09:17.280813', 'event_type': 'LOGIN_FAIL', 'source': 'attacker', 'data': {'user': 'admin'}}
+2026-05-20T16:09:17.281203 | {'timestamp': '2026-05-20T16:09:17.280816', 'event_type': 'LOGIN_FAIL', 'source': 'attacker', 'data': {'user': 'admin'}}
+2026-05-20T16:09:17.281287 | {'timestamp': '2026-05-20T16:09:17.280819', 'event_type': 'MALWARE_EXECUTION', 'source': 'endpoint', 'data': {'file': 'payload.exe'}}
